@@ -5,3 +5,15 @@
 ![image](https://github.com/Doomham/Simple-VLPR/blob/master/1.png)  
 腐蚀结果：  
 ![image](https://github.com/Doomham/Simple-VLPR/blob/master/2.png)  
+闭运算后的结果：  
+![image](https://github.com/Doomham/Simple-VLPR/blob/master/3.png)  
+去除多余噪音：  
+![image](https://github.com/Doomham/Simple-VLPR/blob/master/4.png)  
+粗提取得到的车牌：  
+![image](https://github.com/Doomham/Simple-VLPR/blob/master/5.png)  
+精细定位后得到的车牌：  
+![image](https://github.com/Doomham/Simple-VLPR/blob/master/7.png)  
+分割结果：  
+![image](https://github.com/Doomham/Simple-VLPR/blob/master/8.png)  
+识别结果：  
+![image](https://github.com/Doomham/Simple-VLPR/blob/master/9.png)  
